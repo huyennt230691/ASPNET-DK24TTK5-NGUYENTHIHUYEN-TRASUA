@@ -1,1 +1,47 @@
+Tuần 1: 29/08 – 04/09
 
+- Xác định yêu cầu và mục tiêu của đề tài.
+
+- Khảo sát quy trình nghiệp vụ của hệ thống.
+
+- Tìm hiểu các công nghệ sử dụng.
+
+- Phân tích yêu cầu chức năng và phi chức năng.
+
+- Lập kế hoạch thực hiện đồ án.
+
+Tuần 2: 05/09 – 11/09
+
+- Phân tích và thiết kế hệ thống.
+
+- Xây dựng sơ đồ Use Case.
+
+- Thiết kế cơ sở dữ liệu.
+
+- Xác định các bảng, khóa và mối quan hệ giữa các bảng.
+
+- Khởi tạo project và cấu hình môi trường phát triển.
+
+Tuần 3: 12/09 – 18/09
+
+- Xây dựng các chức năng chính của hệ thống.
+
+- Kết nối và thao tác với cơ sở dữ liệu.
+
+- Xây dựng giao diện cho các chức năng.
+
+- Thực hiện chức năng thêm, sửa, xóa, tìm kiếm dữ liệu.
+
+- Kiểm tra và sửa các lỗi phát sinh trong quá trình phát triển.
+
+Tuần 4: 19/09 – 25/09
+
+- Hoàn thiện các chức năng còn lại.
+
+- Kiểm thử toàn bộ hệ thống.
+
+- Sửa lỗi và tối ưu giao diện.
+
+- Hoàn thiện cơ sở dữ liệu và dữ liệu mẫu.
+
+- Hoàn thiện báo cáo đồ án và video demo. 
