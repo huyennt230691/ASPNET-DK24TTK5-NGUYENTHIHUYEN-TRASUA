@@ -1,47 +1,44 @@
-Tuần 1: 29/08 – 04/09
+Tuần 1: 09/08 – 15/08
 
 - Xác định yêu cầu và mục tiêu của đề tài.
-
 - Khảo sát quy trình nghiệp vụ của hệ thống.
-
 - Tìm hiểu các công nghệ sử dụng.
-
 - Phân tích yêu cầu chức năng và phi chức năng.
-
 - Lập kế hoạch thực hiện đồ án.
 
-Tuần 2: 05/09 – 11/09
-
+Tuần 2: 16/08 – 22/08
 - Phân tích và thiết kế hệ thống.
-
 - Xây dựng sơ đồ Use Case.
-
+- Xác định các tác nhân và chức năng của hệ thống.
 - Thiết kế cơ sở dữ liệu.
-
 - Xác định các bảng, khóa và mối quan hệ giữa các bảng.
 
+Tuần 3: 23/08 – 29/08
 - Khởi tạo project và cấu hình môi trường phát triển.
+- Xây dựng cấu trúc project ASP.NET MVC.
+- Kết nối cơ sở dữ liệu.
+- Xây dựng các Model và Controller.
+- Tạo dữ liệu mẫu cho hệ thống.
 
-Tuần 3: 12/09 – 18/09
-
+Tuần 4: 30/08 – 05/09
 - Xây dựng các chức năng chính của hệ thống.
-
-- Kết nối và thao tác với cơ sở dữ liệu.
-
-- Xây dựng giao diện cho các chức năng.
-
-- Thực hiện chức năng thêm, sửa, xóa, tìm kiếm dữ liệu.
-
-- Kiểm tra và sửa các lỗi phát sinh trong quá trình phát triển.
-
-Tuần 4: 19/09 – 25/09
-
+- Xây dựng giao diện trang chủ và các trang sản phẩm.
+- Thực hiện chức năng thêm, sửa, xóa dữ liệu.
+- Thực hiện chức năng tìm kiếm và xem chi tiết.
+- Kiểm tra và sửa các lỗi phát sinh.
+Tuần 5: 06/09 – 12/09
+- Hoàn thiện chức năng giỏ hàng và đặt hàng.
+- Xây dựng chức năng đăng ký, đăng nhập và quản lý tài khoản.
+- Xây dựng các chức năng quản trị.
+- Hoàn thiện giao diện người dùng.
+- Kiểm tra hoạt động của các chức năng.
+Tuần 6: 13/09 – 19/09
 - Hoàn thiện các chức năng còn lại.
-
 - Kiểm thử toàn bộ hệ thống.
-
-- Sửa lỗi và tối ưu giao diện.
-
+- Sửa các lỗi phát sinh trong quá trình kiểm thử.
 - Hoàn thiện cơ sở dữ liệu và dữ liệu mẫu.
-
-- Hoàn thiện báo cáo đồ án và video demo. 
+- Tối ưu giao diện và trải nghiệm người dùng.
+Tuần 7: 20/09 – 25/09
+- Kiểm tra và hoàn thiện toàn bộ hệ thống.
+- Rà soát các chức năng và cơ sở dữ liệu.
+- Hoàn thiện nội dung báo cáo đồ án và video demo sản phẩm.
