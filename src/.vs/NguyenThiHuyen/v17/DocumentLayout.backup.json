@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|c:\\users\\hi\\desktop\\bachxuanlan (2)\\bachxuanlan\\src\\shoeshoponline.webapp\\areas\\admin\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\areas\\admin\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.webapp\\content\\admin\\js\\sb-admin-2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\content\\admin\\js\\sb-admin-2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.webapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.webapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.webapp\\areas\\admin\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\areas\\admin\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.webapp\\content\\plugins\\ckfinder\\plugins\\gallery\\colorbox\\images\\controls.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\content\\plugins\\ckfinder\\plugins\\gallery\\colorbox\\images\\controls.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.webapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E107A85-C0AE-4EAC-8645-DCBAB46E4690}|ShoeShopOnline.Model\\TraSua.Model.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.model\\dal\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E107A85-C0AE-4EAC-8645-DCBAB46E4690}|ShoeShopOnline.Model\\TraSua.Model.csproj|solutionrelative:shoeshoponline.model\\dal\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\shoeshoponline.webapp\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\B\u1EA1ch Xu\u00E2n Lan.csproj|solutionrelative:shoeshoponline.webapp\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAEwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:36:38.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sb-admin-2.js",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Content\\Admin\\js\\sb-admin-2.js",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Content\\Admin\\js\\sb-admin-2.js",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Content\\Admin\\js\\sb-admin-2.js",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\Content\\Admin\\js\\sb-admin-2.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-14T07:36:07.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:35:21.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\AboutsController.cs",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\AboutsController.cs",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\AboutsController.cs",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\AboutsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:32:52.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "controls.png - PNG [176x50, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Content\\Plugins\\ckfinder\\plugins\\gallery\\colorbox\\images\\controls.png",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Content\\Plugins\\ckfinder\\plugins\\gallery\\colorbox\\images\\controls.png",
+              "ToolTip": "C:\\Users\\Hi\\Downloads\\BachXuanLan\\Web tr\u00E0 s\u1EEFa\\ShoeShopOnline.WebApp\\Content\\Plugins\\ckfinder\\plugins\\gallery\\colorbox\\images\\controls.png - PNG [176x50, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\BachXuanLan\\Web tr\u00E0 s\u1EEFa\\ShoeShopOnline.WebApp\\Content\\Plugins\\ckfinder\\plugins\\gallery\\colorbox\\images\\controls.png - PNG [176x50, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-14T07:32:46.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAjwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:30:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.Model\\DAL\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ShoeShopOnline.Model\\DAL\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.Model\\DAL\\OrderDetail.cs",
+              "RelativeToolTip": "ShoeShopOnline.Model\\DAL\\OrderDetail.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:55:35.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:53:00.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hi\\Desktop\\BachXuanLan (2)\\BachXuanLan\\src\\ShoeShopOnline.WebApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAnwOAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T06:49:26.792Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 922,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

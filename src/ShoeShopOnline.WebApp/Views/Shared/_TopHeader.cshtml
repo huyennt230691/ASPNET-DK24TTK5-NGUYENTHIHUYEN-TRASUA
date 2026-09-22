@@ -1,0 +1,46 @@
+﻿@{
+    var session = (ShoeShopOnline.Common.UserLogin)Session[ShoeShopOnline.Common.CommonConstants.USER_SESSION];
+}
+<div class="top-component">
+    <div class="float-left">
+    </div>
+    <div class="float-right">
+        @if (session == null)
+        {
+            <a href="/dang-ky" class="nav-link">Đăng ký</a>
+            <a href="/dang-nhap" class="nav-link">Đăng nhập</a>
+        }
+        else
+        {
+            <a href="@Url.Action("Logout", "User")" class="nav-link" data-toggle="tooltip" title="Đăng xuất"><i class="fas fa-sign-out-alt"></i></a>
+            <a href="/ho-so-nguoi-dung?id=@session.UserId" data-toggle="tooltip" title="Hồ sơ người dùng" class="nav-link dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span class="text-danger"><span class="text-primary">Xin chào:</span> @session.UserName</span>
+            </a>
+        }
+    </div>
+</div>
+<div class="top-header">
+    <div class="container">
+        <div class="top-header-main">
+            <div class="col-md-4 top-header-left">
+                <div class="search-bar">
+                    <form action="/tim-kiem" method="get">
+                        <input type="text" value="@ViewBag.Keyword" name="keyword" id="txtKeyword" placeholder="Tìm kiếm">
+                        <input type="submit" value="">
+                    </form>
+                </div>
+            </div>
+      <div class="col-md-4 top-header-middle">
+<a href="/trang-chu" style="font-size: 40px; font-weight: 800; color: forestgreen; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 3px; text-transform: uppercase;">Tiệm Trà sữa 1991</a></div>
+
+            <div class="col-md-4 top-header-right">
+                @if (session != null)
+                {
+                    Html.RenderAction("HeaderCart", "Homes");
+                }
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!--<p>logo-4.png</p>-->>

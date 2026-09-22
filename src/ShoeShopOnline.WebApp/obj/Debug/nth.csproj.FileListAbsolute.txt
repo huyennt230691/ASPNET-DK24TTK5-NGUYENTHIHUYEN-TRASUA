@@ -1,0 +1,336 @@
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.dll.config
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.pdb
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\BotDetect.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\BotDetect.Web.Mvc.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\CKFinder.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ClosedXML.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ExcelNumberFormat.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Facebook.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Common.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Data.SQLite.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.IO.Packaging.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Common.pdb
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.pdb
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.dll.config
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\CKFinder.pdb
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ClosedXML.pdb
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ClosedXML.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\ExcelNumberFormat.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Facebook.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Data.SQLite.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Data.SQLite.dll.config
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\Bạch Xuân Lan.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\Bạch Xuân Lan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\B_ch Xu_.7DB0472A.Up2Date
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\ShoeShopOnline.WebApp.dll
+C:\Users\Admin\Downloads\Web trà sữa\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\ShoeShopOnline.WebApp.pdb
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.dll.config
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.pdb
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csc.exe
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csc.rsp
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csi.exe
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csi.exe.config
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\csi.rsp
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Console.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\vbc.exe
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\BotDetect.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\BotDetect.Web.Mvc.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\CKFinder.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ClosedXML.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\DocumentFormat.OpenXml.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ExcelNumberFormat.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Facebook.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.Mvc.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Common.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Data.SQLite.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.IO.Packaging.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Optimization.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Razor.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\WebGrease.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Common.pdb
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.pdb
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.dll.config
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\CKFinder.pdb
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ClosedXML.pdb
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ClosedXML.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\DocumentFormat.OpenXml.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\ExcelNumberFormat.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Facebook.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\PagedList.Mvc.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Data.SQLite.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Data.SQLite.dll.config
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Optimization.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.Razor.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\Bạch Xuân Lan.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\Bạch Xuân Lan.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\B_ch Xu_.7DB0472A.Up2Date
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\ShoeShopOnline.WebApp.dll
+C:\Users\Hi\Downloads\BachXuanLan\Web trà sữa\ShoeShopOnline.WebApp\obj\Debug\ShoeShopOnline.WebApp.pdb
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.dll.config
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.WebApp.pdb
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\csc.exe
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\csc.exe.config
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\csc.rsp
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\csi.exe
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\csi.exe.config
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\csi.rsp
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.AppContext.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Console.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Compression.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.IO.Pipes.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Claims.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.ValueTuple.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\vbc.exe
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\vbc.exe.config
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\vbc.rsp
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\VBCSCompiler.exe
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Antlr3.Runtime.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\BotDetect.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\BotDetect.Web.Mvc.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\CKFinder.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ClosedXML.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\DocumentFormat.OpenXml.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\EntityFramework.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\EntityFramework.SqlServer.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ExcelNumberFormat.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Facebook.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Newtonsoft.Json.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\PagedList.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\PagedList.Mvc.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Common.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Data.SQLite.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.IO.Packaging.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Net.Http.Formatting.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Helpers.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Http.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Http.WebHost.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Mvc.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Optimization.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Razor.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.WebPages.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Razor.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\WebGrease.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Common.pdb
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.pdb
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ShoeShopOnline.Model.dll.config
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\CKFinder.pdb
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ClosedXML.pdb
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ClosedXML.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\DocumentFormat.OpenXml.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\EntityFramework.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\EntityFramework.SqlServer.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\ExcelNumberFormat.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Facebook.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Newtonsoft.Json.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\PagedList.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\PagedList.Mvc.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Data.SQLite.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Data.SQLite.dll.config
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Net.Http.Formatting.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Http.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Http.WebHost.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Helpers.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Mvc.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Optimization.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.Razor.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.WebPages.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\System.Web.WebPages.Razor.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Antlr3.Runtime.pdb
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\obj\Debug\Bạch Xuân Lan.csproj.AssemblyReference.cache
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\obj\Debug\Bạch Xuân Lan.csproj.CoreCompileInputs.cache
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\obj\Debug\B_ch Xu_.7DB0472A.Up2Date
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\obj\Debug\ShoeShopOnline.WebApp.dll
+D:\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\src\ShoeShopOnline.WebApp\obj\Debug\ShoeShopOnline.WebApp.pdb

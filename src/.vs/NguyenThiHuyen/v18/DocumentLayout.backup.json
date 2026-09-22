@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E107A85-C0AE-4EAC-8645-DCBAB46E4690}|ShoeShopOnline.Model\\TraSua.Model.csproj|D:\\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\\src\\shoeshoponline.model\\dal\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E107A85-C0AE-4EAC-8645-DCBAB46E4690}|ShoeShopOnline.Model\\TraSua.Model.csproj|solutionrelative:shoeshoponline.model\\dal\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cs",
+              "DocumentMoniker": "D:\\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\\src\\ShoeShopOnline.Model\\DAL\\About.cs",
+              "RelativeDocumentMoniker": "ShoeShopOnline.Model\\DAL\\About.cs",
+              "ToolTip": "D:\\ASPNET-DK24TTK5-NGUYENTHIHUYEN-DEMO\\src\\ShoeShopOnline.Model\\DAL\\About.cs",
+              "RelativeToolTip": "ShoeShopOnline.Model\\DAL\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:32:26.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

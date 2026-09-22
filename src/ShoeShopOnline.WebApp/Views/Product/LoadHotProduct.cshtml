@@ -1,0 +1,148 @@
+﻿@model IEnumerable<ShoeShopOnline.Model.DAL.Product>
+
+@* Chỉ cần check Model khác null là đủ an toàn, không dùng .Any() để tránh lỗi thiếu thư viện Linq *@
+@if (Model != null)
+{
+    <style>
+        .hot-products-section {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            padding: 40px 0;
+            background-color: #fcfcfc;
+        }
+
+        .section-title-hot {
+            text-align: center;
+            font-size: 26px;
+            font-weight: 800;
+            text-transform: uppercase;
+            margin-bottom: 35px;
+            color: #333;
+            letter-spacing: 1px;
+        }
+        
+        .product-grid-hot {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 25px;
+            justify-content: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        .product-card {
+            width: 260px;
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 15px;
+            text-align: center;
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #f0f0f0;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+            transition: all 0.3s ease;
+        }
+
+        .product-card:hover {
+            box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+            transform: translateY(-6px);
+            border-color: #e0e0e0;
+        }
+
+        .product-img {
+            width: 100%;
+            height: 240px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 18px;
+        }
+
+        .product-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 12px;
+            line-height: 1.4;
+            height: 44px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+
+        .product-pricing {
+            margin-top: auto;
+        }
+
+        .product-price-old {
+            color: #a4b0be;
+            text-decoration: line-through;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 4px;
+            display: block;
+        }
+
+        .product-price-new {
+            color: #ff4757;
+            font-size: 20px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .product-price-new i {
+            font-size: 16px;
+        }
+
+        @@media (max-width: 576px) {
+            .product-card {
+                width: calc(50% - 15px);
+                min-width: 160px;
+                padding: 10px;
+            }
+            .product-img { height: 160px; }
+            .product-title { font-size: 14px; }
+            .product-price-new { font-size: 16px; }
+        }
+    </style>
+
+    <div class="hot-products-section">
+        <h3 class="section-title-hot">SẢN PHẨM HOT</h3>
+        <div class="container">
+            <div class="product-grid-hot">
+                @foreach (var item in Model)
+                {
+                    var url = "/chi-tiet-san-pham/" + item.MetaTitle + "/" + item.Id;
+                    
+                    <a href="@url" class="product-card">
+                        <img src="@item.UrlImage" alt="@item.Name" class="product-img" />
+                        
+                        <div class="product-title">@item.Name</div>
+                        
+                        <div class="product-pricing">
+                            @if (item.PromotionPrice != null && item.PromotionPrice < item.Price)
+                            {
+                                <span class="product-price-old">@item.Price.GetValueOrDefault(0).ToString("N0") đ</span>
+                                <span class="product-price-new">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    @item.PromotionPrice.GetValueOrDefault(0).ToString("N0") đ
+                                </span>
+                            }
+                            else
+                            {
+                                <span class="product-price-new" style="margin-top: 25px;">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    @item.Price.GetValueOrDefault(0).ToString("N0") đ
+                                </span>
+                            }
+                        </div>
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+}
